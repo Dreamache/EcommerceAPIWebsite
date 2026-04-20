@@ -2,6 +2,8 @@
 
 API REST de e-commerce construída com Django REST Framework. O sistema cobre o ciclo completo de compra: catálogo de produtos com categorias hierárquicas, carrinho por usuário, criação de pedidos com transação atômica e notificações assíncronas por e-mail.
 
+<img width="1908" height="923" alt="Screenshot_5" src="https://github.com/user-attachments/assets/791f01af-c0f8-446e-8abf-697fdb451068" />
+
 ## Tecnologias
 
 | Tecnologia | Versão | Finalidade |
